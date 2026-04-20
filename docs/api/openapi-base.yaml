@@ -1,0 +1,180 @@
+openapi: 3.1.0
+info:
+  title: Company LMS API
+  version: 0.1.0
+  summary: Base OpenAPI scaffold for the internal corporate LMS platform.
+  description: >
+    Foundation-level API document. This file fixes shared schemas,
+    security strategy, and tag taxonomy before endpoint implementation begins.
+servers:
+  - url: /api/v1
+tags:
+  - name: auth
+  - name: courses
+  - name: lessons
+  - name: tests
+  - name: progress
+  - name: notifications
+  - name: admin-users
+  - name: admin-courses
+  - name: admin-assignments
+  - name: admin-analytics
+  - name: audit
+paths: {}
+components:
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT
+  schemas:
+    ErrorResponse:
+      type: object
+      required:
+        - code
+        - message
+        - traceId
+        - timestamp
+      properties:
+        code:
+          $ref: "#/components/schemas/CommonErrorCode"
+        message:
+          type: string
+        traceId:
+          type: string
+        timestamp:
+          type: string
+          format: date-time
+        details:
+          $ref: "#/components/schemas/ErrorDetails"
+    ErrorDetails:
+      type: object
+      additionalProperties: false
+      properties:
+        resourceId:
+          type: string
+        resourceType:
+          type: string
+        violations:
+          type: array
+          items:
+            $ref: "#/components/schemas/FieldViolation"
+    FieldViolation:
+      type: object
+      required:
+        - field
+        - message
+      properties:
+        field:
+          type: string
+        message:
+          type: string
+    PaginationMeta:
+      type: object
+      required:
+        - page
+        - pageSize
+        - totalItems
+        - totalPages
+      properties:
+        page:
+          type: integer
+          minimum: 1
+        pageSize:
+          type: integer
+          minimum: 1
+        totalItems:
+          type: integer
+          minimum: 0
+        totalPages:
+          type: integer
+          minimum: 0
+    SystemRoleKey:
+      type: string
+      enum:
+        - employee
+        - manager
+        - hr
+        - admin
+        - super_admin
+    PermissionKey:
+      type: string
+      enum:
+        - dashboard.read
+        - users.read
+        - users.read_details
+        - users.manage
+        - roles.read
+        - roles.manage
+        - permissions.read
+        - departments.read
+        - departments.manage
+        - courses.read_assigned
+        - courses.read_catalog
+        - courses.manage
+        - lessons.read_assigned
+        - lessons.manage
+        - tests.attempt
+        - tests.manage
+        - assignments.read_self
+        - assignments.manage
+        - progress.read_self
+        - progress.read_team
+        - progress.manage
+        - notifications.read_self
+        - notifications.manage
+        - profile.read_self
+        - profile.update_self
+        - analytics.read
+        - reports.export
+        - audit.read
+        - files.read
+        - files.manage
+    CommonErrorCode:
+      type: string
+      enum:
+        - AUTH_INVALID_CREDENTIALS
+        - AUTH_SESSION_EXPIRED
+        - AUTH_REFRESH_TOKEN_INVALID
+        - ACCESS_FORBIDDEN
+        - ACCESS_UNAUTHORIZED
+        - VALIDATION_FAILED
+        - RESOURCE_NOT_FOUND
+        - COURSE_NOT_ASSIGNED
+        - LESSON_NOT_AVAILABLE
+        - TEST_ATTEMPT_LIMIT_REACHED
+        - ASSIGNMENT_DUPLICATE
+        - FILE_ACCESS_DENIED
+        - RATE_LIMITED
+        - INTERNAL_SERVER_ERROR
+    CourseStatus:
+      type: string
+      enum:
+        - draft
+        - review
+        - published
+        - archived
+    AssignmentStatus:
+      type: string
+      enum:
+        - draft
+        - scheduled
+        - active
+        - completed
+        - overdue
+        - cancelled
+        - archived
+    CompletionStatus:
+      type: string
+      enum:
+        - not_started
+        - in_progress
+        - completed
+        - failed
+        - expired
+    NotificationStatus:
+      type: string
+      enum:
+        - unread
+        - read
+        - archived

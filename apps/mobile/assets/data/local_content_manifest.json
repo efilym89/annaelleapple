@@ -1,0 +1,586 @@
+{
+  "generatedAt": "2026-04-19T09:20:39.377Z",
+  "sourceRoot": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage",
+  "courses": [
+    {
+      "id": "day-1",
+      "title": "День 1",
+      "subtitle": "Бренд, клиент и технология",
+      "description": "Первый день знакомит сотрудника с брендом, ролью мастера, ожиданиями клиента и базовой технологией работы.",
+      "lessonCount": 10,
+      "totalDurationLabel": "37:09",
+      "lessons": [
+        {
+          "id": "day-1/lesson-1",
+          "courseId": "day-1",
+          "order": 1,
+          "title": "Приветствие",
+          "status": "published",
+          "durationLabel": "04:16",
+          "summary": "Видеоурок по теме «Приветствие», длительность 04:16.",
+          "description": "Урок из блока День 1, посвященный теме «Приветствие».",
+          "video": {
+            "title": "Видео урока",
+            "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-1\\lesson-1\\video.mp4",
+            "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-1/lesson-1/video.mp4",
+            "durationLabel": "04:16"
+          },
+          "materials": [
+            {
+              "id": "day-1/lesson-1/presentation",
+              "type": "presentation",
+              "title": "Презентация урока",
+              "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-1\\lesson-1\\presentation.pdf",
+              "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-1/lesson-1/presentation.pdf"
+            }
+          ]
+        },
+        {
+          "id": "day-1/lesson-2",
+          "courseId": "day-1",
+          "order": 2,
+          "title": "Компания, бренд, ценности и стандарты",
+          "status": "published",
+          "durationLabel": "04:00",
+          "summary": "Видеоурок по теме «Компания, бренд, ценности и стандарты», длительность 04:00.",
+          "description": "Урок из блока День 1, посвященный теме «Компания, бренд, ценности и стандарты».",
+          "video": {
+            "title": "Видео урока",
+            "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-1\\lesson-2\\video.mp4",
+            "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-1/lesson-2/video.mp4",
+            "durationLabel": "04:00"
+          },
+          "materials": [
+            {
+              "id": "day-1/lesson-2/presentation",
+              "type": "presentation",
+              "title": "Презентация урока",
+              "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-1\\lesson-2\\presentation.pdf",
+              "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-1/lesson-2/presentation.pdf"
+            }
+          ]
+        },
+        {
+          "id": "day-1/lesson-3",
+          "courseId": "day-1",
+          "order": 3,
+          "title": "Кто такой мастер в нашей студии",
+          "status": "published",
+          "durationLabel": "03:34",
+          "summary": "Видеоурок по теме «Кто такой мастер в нашей студии», длительность 03:34.",
+          "description": "Урок из блока День 1, посвященный теме «Кто такой мастер в нашей студии».",
+          "video": {
+            "title": "Видео урока",
+            "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-1\\lesson-3\\video.mp4",
+            "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-1/lesson-3/video.mp4",
+            "durationLabel": "03:34"
+          },
+          "materials": [
+            {
+              "id": "day-1/lesson-3/presentation",
+              "type": "presentation",
+              "title": "Презентация урока",
+              "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-1\\lesson-3\\presentation.pdf",
+              "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-1/lesson-3/presentation.pdf"
+            }
+          ]
+        },
+        {
+          "id": "day-1/lesson-4",
+          "courseId": "day-1",
+          "order": 4,
+          "title": "presentation",
+          "status": "published",
+          "durationLabel": "03:48",
+          "summary": "Видеоурок по теме «presentation», длительность 03:48.",
+          "description": "Урок из блока День 1 с рабочими материалами и видео.",
+          "video": {
+            "title": "Видео урока",
+            "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-1\\lesson-4\\video.mp4",
+            "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-1/lesson-4/video.mp4",
+            "durationLabel": "03:48"
+          },
+          "materials": [
+            {
+              "id": "day-1/lesson-4/presentation",
+              "type": "presentation",
+              "title": "Презентация урока",
+              "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-1\\lesson-4\\presentation.pdf",
+              "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-1/lesson-4/presentation.pdf"
+            }
+          ]
+        },
+        {
+          "id": "day-1/lesson-5",
+          "courseId": "day-1",
+          "order": 5,
+          "title": "Кто наши клиенты и что для них важно",
+          "status": "published",
+          "durationLabel": "03:08",
+          "summary": "Видеоурок по теме «Кто наши клиенты и что для них важно», длительность 03:08.",
+          "description": "Урок из блока День 1, посвященный теме «Кто наши клиенты и что для них важно».",
+          "video": {
+            "title": "Видео урока",
+            "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-1\\lesson-5\\video.mp4",
+            "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-1/lesson-5/video.mp4",
+            "durationLabel": "03:08"
+          },
+          "materials": [
+            {
+              "id": "day-1/lesson-5/presentation",
+              "type": "presentation",
+              "title": "Презентация урока",
+              "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-1\\lesson-5\\presentation.pdf",
+              "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-1/lesson-5/presentation.pdf"
+            }
+          ]
+        },
+        {
+          "id": "day-1/lesson-6",
+          "courseId": "day-1",
+          "order": 6,
+          "title": "Триггер и глубинный мотив",
+          "status": "published",
+          "durationLabel": "04:42",
+          "summary": "Видеоурок по теме «Триггер и глубинный мотив», длительность 04:42.",
+          "description": "Урок из блока День 1, посвященный теме «Триггер и глубинный мотив».",
+          "video": {
+            "title": "Видео урока",
+            "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-1\\lesson-6\\video.mp4",
+            "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-1/lesson-6/video.mp4",
+            "durationLabel": "04:42"
+          },
+          "materials": [
+            {
+              "id": "day-1/lesson-6/presentation",
+              "type": "presentation",
+              "title": "Презентация урока",
+              "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-1\\lesson-6\\presentation.pdf",
+              "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-1/lesson-6/presentation.pdf"
+            }
+          ]
+        },
+        {
+          "id": "day-1/lesson-7",
+          "courseId": "day-1",
+          "order": 7,
+          "title": "Клиентский путь от рекламы до кабинета мастера",
+          "status": "published",
+          "durationLabel": "03:29",
+          "summary": "Видеоурок по теме «Клиентский путь от рекламы до кабинета мастера», длительность 03:29.",
+          "description": "Урок из блока День 1, посвященный теме «Клиентский путь от рекламы до кабинета мастера».",
+          "video": {
+            "title": "Видео урока",
+            "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-1\\lesson-7\\video.mp4",
+            "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-1/lesson-7/video.mp4",
+            "durationLabel": "03:29"
+          },
+          "materials": [
+            {
+              "id": "day-1/lesson-7/presentation",
+              "type": "presentation",
+              "title": "Презентация урока",
+              "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-1\\lesson-7\\presentation.pdf",
+              "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-1/lesson-7/presentation.pdf"
+            }
+          ]
+        },
+        {
+          "id": "day-1/lesson-8",
+          "courseId": "day-1",
+          "order": 8,
+          "title": "Аппарат и технология",
+          "status": "published",
+          "durationLabel": "03:26",
+          "summary": "Видеоурок по теме «Аппарат и технология», длительность 03:26.",
+          "description": "Урок из блока День 1, посвященный теме «Аппарат и технология».",
+          "video": {
+            "title": "Видео урока",
+            "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-1\\lesson-8\\video.mp4",
+            "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-1/lesson-8/video.mp4",
+            "durationLabel": "03:26"
+          },
+          "materials": [
+            {
+              "id": "day-1/lesson-8/presentation",
+              "type": "presentation",
+              "title": "Презентация урока",
+              "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-1\\lesson-8\\presentation.pdf",
+              "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-1/lesson-8/presentation.pdf"
+            }
+          ]
+        },
+        {
+          "id": "day-1/lesson-9",
+          "courseId": "day-1",
+          "order": 9,
+          "title": "Ошибки новичков",
+          "status": "published",
+          "durationLabel": "03:48",
+          "summary": "Видеоурок по теме «Ошибки новичков», длительность 03:48.",
+          "description": "Урок из блока День 1, посвященный теме «Ошибки новичков».",
+          "video": {
+            "title": "Видео урока",
+            "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-1\\lesson-9\\video.mp4",
+            "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-1/lesson-9/video.mp4",
+            "durationLabel": "03:48"
+          },
+          "materials": [
+            {
+              "id": "day-1/lesson-9/presentation",
+              "type": "presentation",
+              "title": "Презентация урока",
+              "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-1\\lesson-9\\presentation.pdf",
+              "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-1/lesson-9/presentation.pdf"
+            }
+          ]
+        },
+        {
+          "id": "day-1/lesson-10",
+          "courseId": "day-1",
+          "order": 10,
+          "title": "Итог дня и подготовка ко второй части",
+          "status": "published",
+          "durationLabel": "02:58",
+          "summary": "Видеоурок по теме «Итог дня и подготовка ко второй части», длительность 02:58.",
+          "description": "Урок из блока День 1, посвященный теме «Итог дня и подготовка ко второй части».",
+          "video": {
+            "title": "Видео урока",
+            "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-1\\lesson-10\\video.mp4",
+            "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-1/lesson-10/video.mp4",
+            "durationLabel": "02:58"
+          },
+          "materials": [
+            {
+              "id": "day-1/lesson-10/presentation",
+              "type": "presentation",
+              "title": "Презентация урока",
+              "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-1\\lesson-10\\presentation.pdf",
+              "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-1/lesson-10/presentation.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "day-2",
+      "title": "День 2",
+      "subtitle": "Продажи и работа с клиентом",
+      "description": "Второй день посвящен продажам, клиентскому контакту, выявлению потребностей, цене, возражениям и завершению сделки.",
+      "lessonCount": 11,
+      "totalDurationLabel": "58:29",
+      "lessons": [
+        {
+          "id": "day-2/lesson-1",
+          "courseId": "day-2",
+          "order": 1,
+          "title": "Ввод в продажи - Логика, задача",
+          "status": "published",
+          "durationLabel": "05:59",
+          "summary": "Видеоурок по теме «Ввод в продажи - Логика, задача», длительность 05:59.",
+          "description": "Урок из блока День 2, посвященный теме «Ввод в продажи - Логика, задача».",
+          "video": {
+            "title": "Видео урока",
+            "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-2\\lesson-1\\video.mp4",
+            "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-2/lesson-1/video.mp4",
+            "durationLabel": "05:59"
+          },
+          "materials": [
+            {
+              "id": "day-2/lesson-1/presentation",
+              "type": "presentation",
+              "title": "Презентация урока",
+              "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-2\\lesson-1\\presentation.pdf",
+              "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-2/lesson-1/presentation.pdf"
+            }
+          ]
+        },
+        {
+          "id": "day-2/lesson-2",
+          "courseId": "day-2",
+          "order": 2,
+          "title": "Подготовка к контакту",
+          "status": "published",
+          "durationLabel": "04:18",
+          "summary": "Видеоурок по теме «Подготовка к контакту», длительность 04:18.",
+          "description": "Урок из блока День 2, посвященный теме «Подготовка к контакту».",
+          "video": {
+            "title": "Видео урока",
+            "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-2\\lesson-2\\video.mp4",
+            "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-2/lesson-2/video.mp4",
+            "durationLabel": "04:18"
+          },
+          "materials": [
+            {
+              "id": "day-2/lesson-2/presentation",
+              "type": "presentation",
+              "title": "Презентация урока",
+              "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-2\\lesson-2\\presentation.pdf",
+              "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-2/lesson-2/presentation.pdf"
+            }
+          ]
+        },
+        {
+          "id": "day-2/lesson-3",
+          "courseId": "day-2",
+          "order": 3,
+          "title": "Как Мастер встречает Клиентку",
+          "status": "published",
+          "durationLabel": "04:09",
+          "summary": "Видеоурок по теме «Как Мастер встречает Клиентку», длительность 04:09.",
+          "description": "Урок из блока День 2, посвященный теме «Как Мастер встречает Клиентку».",
+          "video": {
+            "title": "Видео урока",
+            "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-2\\lesson-3\\video.mp4",
+            "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-2/lesson-3/video.mp4",
+            "durationLabel": "04:09"
+          },
+          "materials": [
+            {
+              "id": "day-2/lesson-3/presentation",
+              "type": "presentation",
+              "title": "Презентация урока",
+              "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-2\\lesson-3\\presentation.pdf",
+              "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-2/lesson-3/presentation.pdf"
+            }
+          ]
+        },
+        {
+          "id": "day-2/lesson-4",
+          "courseId": "day-2",
+          "order": 4,
+          "title": "Перехват Инициативы + Програмирование",
+          "status": "published",
+          "durationLabel": "04:41",
+          "summary": "Видеоурок по теме «Перехват Инициативы + Програмирование», длительность 04:41.",
+          "description": "Урок из блока День 2, посвященный теме «Перехват Инициативы + Програмирование».",
+          "video": {
+            "title": "Видео урока",
+            "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-2\\lesson-4\\video.mp4",
+            "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-2/lesson-4/video.mp4",
+            "durationLabel": "04:41"
+          },
+          "materials": [
+            {
+              "id": "day-2/lesson-4/presentation",
+              "type": "presentation",
+              "title": "Презентация урока",
+              "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-2\\lesson-4\\presentation.pdf",
+              "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-2/lesson-4/presentation.pdf"
+            }
+          ]
+        },
+        {
+          "id": "day-2/lesson-5",
+          "courseId": "day-2",
+          "order": 5,
+          "title": "Тип клиентов",
+          "status": "published",
+          "durationLabel": "08:15",
+          "summary": "Видеоурок по теме «Тип клиентов», длительность 08:15.",
+          "description": "Урок из блока День 2, посвященный теме «Тип клиентов».",
+          "video": {
+            "title": "Видео урока",
+            "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-2\\lesson-5\\video.mp4",
+            "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-2/lesson-5/video.mp4",
+            "durationLabel": "08:15"
+          },
+          "materials": [
+            {
+              "id": "day-2/lesson-5/presentation",
+              "type": "presentation",
+              "title": "Презентация урока",
+              "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-2\\lesson-5\\presentation.pdf",
+              "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-2/lesson-5/presentation.pdf"
+            }
+          ]
+        },
+        {
+          "id": "day-2/lesson-6",
+          "courseId": "day-2",
+          "order": 6,
+          "title": "Выявление потребностей",
+          "status": "published",
+          "durationLabel": "05:27",
+          "summary": "Видеоурок по теме «Выявление потребностей», длительность 05:27.",
+          "description": "Урок из блока День 2, посвященный теме «Выявление потребностей».",
+          "video": {
+            "title": "Видео урока",
+            "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-2\\lesson-6\\video.mp4",
+            "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-2/lesson-6/video.mp4",
+            "durationLabel": "05:27"
+          },
+          "materials": [
+            {
+              "id": "day-2/lesson-6/presentation",
+              "type": "presentation",
+              "title": "Презентация урока",
+              "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-2\\lesson-6\\presentation.pdf",
+              "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-2/lesson-6/presentation.pdf"
+            }
+          ]
+        },
+        {
+          "id": "day-2/lesson-7",
+          "courseId": "day-2",
+          "order": 7,
+          "title": "Презентация продукта",
+          "status": "published",
+          "durationLabel": "07:07",
+          "summary": "Видеоурок по теме «Презентация продукта», длительность 07:07.",
+          "description": "Урок из блока День 2, посвященный теме «Презентация продукта».",
+          "video": {
+            "title": "Видео урока",
+            "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-2\\lesson-7\\video.mp4",
+            "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-2/lesson-7/video.mp4",
+            "durationLabel": "07:07"
+          },
+          "materials": [
+            {
+              "id": "day-2/lesson-7/presentation",
+              "type": "presentation",
+              "title": "Презентация урока",
+              "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-2\\lesson-7\\presentation.pdf",
+              "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-2/lesson-7/presentation.pdf"
+            }
+          ]
+        },
+        {
+          "id": "day-2/lesson-8",
+          "courseId": "day-2",
+          "order": 8,
+          "title": "Объявление цены",
+          "status": "published",
+          "durationLabel": "04:19",
+          "summary": "Видеоурок по теме «Объявление цены», длительность 04:19.",
+          "description": "Урок из блока День 2, посвященный теме «Объявление цены».",
+          "video": {
+            "title": "Видео урока",
+            "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-2\\lesson-8\\video.mp4",
+            "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-2/lesson-8/video.mp4",
+            "durationLabel": "04:19"
+          },
+          "materials": [
+            {
+              "id": "day-2/lesson-8/presentation",
+              "type": "presentation",
+              "title": "Презентация урока",
+              "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-2\\lesson-8\\presentation.pdf",
+              "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-2/lesson-8/presentation.pdf"
+            }
+          ]
+        },
+        {
+          "id": "day-2/lesson-9",
+          "courseId": "day-2",
+          "order": 9,
+          "title": "Работа с возражениями",
+          "status": "published",
+          "durationLabel": "08:56",
+          "summary": "Видеоурок по теме «Работа с возражениями», длительность 08:56.",
+          "description": "Урок из блока День 2, посвященный теме «Работа с возражениями».",
+          "video": {
+            "title": "Видео урока",
+            "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-2\\lesson-9\\video.mp4",
+            "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-2/lesson-9/video.mp4",
+            "durationLabel": "08:56"
+          },
+          "materials": [
+            {
+              "id": "day-2/lesson-9/presentation",
+              "type": "presentation",
+              "title": "Презентация урока",
+              "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-2\\lesson-9\\presentation.pdf",
+              "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-2/lesson-9/presentation.pdf"
+            }
+          ]
+        },
+        {
+          "id": "day-2/lesson-10",
+          "courseId": "day-2",
+          "order": 10,
+          "title": "Завершение и удержание сделки",
+          "status": "published",
+          "durationLabel": null,
+          "summary": "Короткий видеоурок по теме «Завершение и удержание сделки».",
+          "description": "Урок из блока День 2, посвященный теме «Завершение и удержание сделки».",
+          "video": null,
+          "materials": [
+            {
+              "id": "day-2/lesson-10/presentation",
+              "type": "presentation",
+              "title": "Презентация урока",
+              "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-2\\lesson-10\\presentation.pdf",
+              "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-2/lesson-10/presentation.pdf"
+            }
+          ]
+        },
+        {
+          "id": "day-2/lesson-11",
+          "courseId": "day-2",
+          "order": 11,
+          "title": "Домашнее задание + экзамен",
+          "status": "published",
+          "durationLabel": "05:18",
+          "summary": "Видеоурок по теме «Домашнее задание + экзамен», длительность 05:18.",
+          "description": "Урок из блока День 2, посвященный теме «Домашнее задание + экзамен».",
+          "video": {
+            "title": "Видео урока",
+            "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-2\\lesson-11\\video.mp4",
+            "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-2/lesson-11/video.mp4",
+            "durationLabel": "05:18"
+          },
+          "materials": [
+            {
+              "id": "day-2/lesson-11/presentation",
+              "type": "presentation",
+              "title": "Презентация урока",
+              "path": "C:\\Users\\efily\\Downloads\\anaelacademy\\anaelacademy\\storage\\day-2\\lesson-11\\presentation.pdf",
+              "uri": "file:///C:/Users/efily/Downloads/anaelacademy/anaelacademy/storage/day-2/lesson-11/presentation.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "companyNews": [
+    {
+      "id": "news-academy-update",
+      "title": "Обновлена программа внутреннего обучения",
+      "description": "Добавили новую структуру прохождения уроков по дням и упростили доступ к материалам для новых сотрудников.",
+      "dateLabel": "Сегодня"
+    },
+    {
+      "id": "news-service-standards",
+      "title": "Напоминание о стандартах сервиса",
+      "description": "Проверьте актуальные регламенты общения с клиентом и стандарты подготовки кабинета перед сменой.",
+      "dateLabel": "Эта неделя"
+    },
+    {
+      "id": "news-team-meeting",
+      "title": "Общее собрание команды в пятницу",
+      "description": "Короткая встреча по итогам недели: результаты обучения, обратная связь и приоритеты следующего цикла.",
+      "dateLabel": "Пятница"
+    }
+  ],
+  "usefulMaterials": [
+    {
+      "id": "material-client-script",
+      "title": "Памятка по первому контакту с клиентом",
+      "description": "Короткий внутренний материал по приветствию, тону общения и формированию доверия в начале общения.",
+      "dateLabel": "Материал"
+    },
+    {
+      "id": "material-cabinet-checklist",
+      "title": "Чек-лист подготовки рабочего места",
+      "description": "Быстрая проверка кабинета, материалов и оборудования перед началом рабочего дня.",
+      "dateLabel": "Чек-лист"
+    },
+    {
+      "id": "material-service-reminder",
+      "title": "Напоминание по стандартам сервиса",
+      "description": "Ключевые моменты, которые важно соблюдать в каждом клиентском сценарии независимо от курса.",
+      "dateLabel": "Регламент"
+    }
+  ]
+}

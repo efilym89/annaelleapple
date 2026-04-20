@@ -1,0 +1,33 @@
+# Node / pnpm
+node_modules/
+.pnpm-store/
+dist/
+coverage/
+
+# Next.js
+.next/
+out/
+
+# NestJS / TypeScript
+*.tsbuildinfo
+
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
